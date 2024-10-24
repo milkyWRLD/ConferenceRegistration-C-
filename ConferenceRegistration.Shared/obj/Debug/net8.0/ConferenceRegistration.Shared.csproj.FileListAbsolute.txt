@@ -1,0 +1,11 @@
+C:\Users\heavy\Desktop\Projects\C#\ConferenceRegistration\ConferenceRegistration.Shared\bin\Debug\net8.0\ConferenceRegistration.Shared.deps.json
+C:\Users\heavy\Desktop\Projects\C#\ConferenceRegistration\ConferenceRegistration.Shared\bin\Debug\net8.0\ConferenceRegistration.Shared.dll
+C:\Users\heavy\Desktop\Projects\C#\ConferenceRegistration\ConferenceRegistration.Shared\bin\Debug\net8.0\ConferenceRegistration.Shared.pdb
+C:\Users\heavy\Desktop\Projects\C#\ConferenceRegistration\ConferenceRegistration.Shared\obj\Debug\net8.0\ConferenceRegistration.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heavy\Desktop\Projects\C#\ConferenceRegistration\ConferenceRegistration.Shared\obj\Debug\net8.0\ConferenceRegistration.Shared.AssemblyInfoInputs.cache
+C:\Users\heavy\Desktop\Projects\C#\ConferenceRegistration\ConferenceRegistration.Shared\obj\Debug\net8.0\ConferenceRegistration.Shared.AssemblyInfo.cs
+C:\Users\heavy\Desktop\Projects\C#\ConferenceRegistration\ConferenceRegistration.Shared\obj\Debug\net8.0\ConferenceRegistration.Shared.csproj.CoreCompileInputs.cache
+C:\Users\heavy\Desktop\Projects\C#\ConferenceRegistration\ConferenceRegistration.Shared\obj\Debug\net8.0\ConferenceRegistration.Shared.dll
+C:\Users\heavy\Desktop\Projects\C#\ConferenceRegistration\ConferenceRegistration.Shared\obj\Debug\net8.0\refint\ConferenceRegistration.Shared.dll
+C:\Users\heavy\Desktop\Projects\C#\ConferenceRegistration\ConferenceRegistration.Shared\obj\Debug\net8.0\ConferenceRegistration.Shared.pdb
+C:\Users\heavy\Desktop\Projects\C#\ConferenceRegistration\ConferenceRegistration.Shared\obj\Debug\net8.0\ref\ConferenceRegistration.Shared.dll

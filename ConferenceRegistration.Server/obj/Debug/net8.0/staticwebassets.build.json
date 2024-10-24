@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nUwOn0APp7GDYpDUiIIbeS6yTYcr/GT7fZ1KoMGHLQI=",
+  "Source": "ConferenceRegistration.Server",
+  "BasePath": "_content/ConferenceRegistration.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
